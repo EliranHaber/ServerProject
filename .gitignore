@@ -128,3 +128,18 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Additional environment files
+.env.local
