@@ -65,8 +65,8 @@ npm test
 **Response:**
 ```json
 {
-  "first_name": "John",
-  "last_name": "Doe",
+  "first_name": "Mosh",
+  "last_name": "Israeli",
   "id": 123123,
   "total": 250
 }
@@ -99,11 +99,12 @@ npm test
       "food": [
         {
           "sum": 10,
-          "description": "test cost",
+          "description": "Milk",
           "day": 6
         }
       ]
-    },
+    }]
+},
 ```
 
 ### 4. Get Developers Team Info
