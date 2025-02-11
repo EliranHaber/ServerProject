@@ -101,8 +101,7 @@ npm test
           "sum": 10,
           "description": "Milk",
           "day": 6
-        }
-      ]
+        }]
     }]
 },
 ```
