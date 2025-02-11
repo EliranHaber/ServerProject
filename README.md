@@ -103,7 +103,7 @@ npm test
           "day": 6
         }]
     }]
-},
+}
 ```
 
 ### 4. Get Developers Team Info
